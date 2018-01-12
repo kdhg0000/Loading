@@ -9,7 +9,7 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "http://112.154.198.208/london%2d4k%2dwallpaper%2d93.jpg";
+var l_serverImage = "backgrounds/images/london-4k-wallpaper-93.jpg";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
@@ -103,13 +103,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Welcome to Wonderland Role Play!",
+"Welcome to dev Role Play!",
 "Make friends, follow rules & have fun!",
-"Be sure to visit our forums at WonderlandDarkRP.enjin.com!",
-"Wonderland Owners are, Lakoosha, Exhume & MissKitten",
-"Remember to be kind and respect others!",
-"Type !MOTD in your chat to view the rules!",
-"Donate to become a VIP member and have your own Custom Model and weapons!"
+
 ];
 
 /*Random message order?*/
