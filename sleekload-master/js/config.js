@@ -9,11 +9,11 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "backgrounds/images/london-4k-wallpaper-93.jpg";
+var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Welcome";
+var l_serverName = "";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -51,10 +51,10 @@ var l_background = "backgrounds/videos/dancingstars.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"",
-	"",
-	"",
-        ""
+	"background/images/1.jpg",
+	"background/images/2.jpg",
+	"background/images/3.jpg",
+        "background/images/4.jpg"
 ];
 
 /*Random background images order?*/
@@ -87,8 +87,8 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-        {youtube: "kyg1ccTfW5s", name: "[Blend・S]- 8bit."},
-			{youtube: "5eWE06pvzfs", name: [Daydream Sky Train - IA, Hatsune Miku ft. Orangestar]	
+        	{youtube: "kyg1ccTfW5s", name: "[Blend・S]- 8bit."},
+			{youtube: "5eWE06pvzfs", name: "[Daydream Sky Train - IA, Hatsune Miku ft. Orangestar]"	},
 ];
 
 /*Random music order?*/
@@ -96,7 +96,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 15;
+var l_musicVolume = 50;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
