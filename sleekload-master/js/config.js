@@ -51,9 +51,9 @@ var l_background = "backgrounds/videos/dancingstars.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/1.jpg",
-	"backgrounds/images/2.jpg",
-	"backgrounds/images/3.jpg",
+	"https://raw.githubusercontent.com/kdhg0000/Loading/0464cc64/sleekload-master/backgrounds/images/1.jpg",
+	"https://cdn.rawgit.com/kdhg0000/Loading/0464cc64/sleekload-master/backgrounds/images/2.jpg",
+	"https://cdn.rawgit.com/kdhg0000/Loading/0464cc64/sleekload-master/backgrounds/images/3.jpg",
      
 ];
 
