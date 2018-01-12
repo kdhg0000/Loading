@@ -13,7 +13,7 @@ var l_serverImage = "http://112.154.198.208/london%2d4k%2dwallpaper%2d93.jpg";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "자유서버[ACF,Adv2";
+var l_serverName = "Welcome";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -96,20 +96,16 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 15;
+var l_musicVolume = 100;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Welcome to Wonderland Role Play!",
-"Make friends, follow rules & have fun!",
-"Be sure to visit our forums at WonderlandDarkRP.enjin.com!",
-"Wonderland Owners are, Lakoosha, Exhume & MissKitten",
-"Remember to be kind and respect others!",
-"Type !MOTD in your chat to view the rules!",
-"Donate to become a VIP member and have your own Custom Model and weapons!"
+"Welcome to Dev Role Play!",
+"Make friends, follow rules & have fun!"
+
 ];
 
 /*Random message order?*/
