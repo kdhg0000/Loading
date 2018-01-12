@@ -9,11 +9,11 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "";
+var l_serverImage = "http://112.154.198.208/london%2d4k%2dwallpaper%2d93.jpg";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "";
+var l_serverName = "Welcome";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -51,7 +51,7 @@ var l_background = "backgrounds/videos/dancingstars.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"http://112.154.198.208/london%2d4k%2dwallpaper%2d93.jpg",
+	"",
 	"",
 	"",
         ""
@@ -88,7 +88,7 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
         {youtube: "kyg1ccTfW5s", name: "[Blend・S]- 8bit."},
-			{youtube: "5eWE06pvzfs", name: "[Daydream Sky Train]- IA, Hatsune Miku ft. Orangestar"]	
+			{youtube: "5eWE06pvzfs", name: [Daydream Sky Train - IA, Hatsune Miku ft. Orangestar]	
 ];
 
 /*Random music order?*/
@@ -96,16 +96,20 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 100;
+var l_musicVolume = 15;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Welcome to Dev Role Play!",
-"Make friends, follow rules & have fun!"
-
+"Welcome to Wonderland Role Play!",
+"Make friends, follow rules & have fun!",
+"Be sure to visit our forums at WonderlandDarkRP.enjin.com!",
+"Wonderland Owners are, Lakoosha, Exhume & MissKitten",
+"Remember to be kind and respect others!",
+"Type !MOTD in your chat to view the rules!",
+"Donate to become a VIP member and have your own Custom Model and weapons!"
 ];
 
 /*Random message order?*/
