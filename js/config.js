@@ -88,7 +88,7 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
         {youtube: "kyg1ccTfW5s", name: "[Blend・S]- 8bit."},
-			{youtube: "5eWE06pvzfs", name: [Daydream Sky Train - IA, Hatsune Miku ft. Orangestar]	
+			{youtube: "5eWE06pvzfs", name: "[Daydream Sky Train]- IA, Hatsune Miku ft. Orangestar"]	
 ];
 
 /*Random music order?*/
