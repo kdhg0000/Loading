@@ -9,11 +9,11 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "http://112.154.198.208/london%2d4k%2dwallpaper%2d93.jpg";
+var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Welcome";
+var l_serverName = "";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -51,7 +51,7 @@ var l_background = "backgrounds/videos/dancingstars.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"",
+	"http://112.154.198.208/london%2d4k%2dwallpaper%2d93.jpg",
 	"",
 	"",
         ""
