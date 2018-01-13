@@ -89,9 +89,9 @@ Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
         	{youtube: "kyg1ccTfW5s", name: "[Blend・S]- 8bit."},
 			{youtube: "5eWE06pvzfs", name: "[Daydream Sky Train - IA, Hatsune Miku ft. Orangestar]"	},
-				{youtube: "bM7SZ5SBzyY", name: "[Alan walker]-Fade (No copy right sounds release"},
-					{youtube: "1-xGerv5FOk", name:"[Alan walker]-Alon (No copy right sounds release"},
-						{youtube: "xshEZzpS4CQ",name:"[Alan walker]-Force (no copy right sounds release"}
+				{youtube: "60ItHLz5WEA", name: "[Alan walker]-Fade (No copy right sounds release)"},
+					{youtube: "1-xGerv5FOk", name:"[Alan walker]-Alon (No copy right sounds release)"},
+						{youtube: "xshEZzpS4CQ",name:"[Alan walker]-Force (no copy right sounds release)"}
 ];
 
 /*Random music order?*/
@@ -106,14 +106,11 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Welcome to the server."
-"Please check the server rules with ! motd!"
-"Loading server .."
-"Loading data file ..."
-"Please wait!"
-
-
-
+"서버의 규칙을 확인해주세요!",
+"서버를 불러오는중 입니다...",
+"서버의 규칙은 !motd로 보실수 있습니다.",
+"@로 관리자에게 신고를 해주시거나 스팀채팅으로 신고를 해주세요!",
+"로딩화면,로딩화면 음악 등 추천받습니다",
 ];
 
 /*Random message order?*/
