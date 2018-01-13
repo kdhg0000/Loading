@@ -106,11 +106,12 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"서버에 오신것을 환영합니다."
-"!motd로 서버규칙을 확인해주세요!"
-"서버 로딩중.."
-"데이터 파일 불러오는중..."
-"잠시만 기다려주세요!"
+"Welcome to the server."
+"Please check the server rules with ! motd!"
+"Loading server .."
+"Loading data file ..."
+"Please wait!"
+
 
 
 ];
