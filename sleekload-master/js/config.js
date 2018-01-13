@@ -89,6 +89,9 @@ Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
         	{youtube: "kyg1ccTfW5s", name: "[Blend・S]- 8bit."},
 			{youtube: "5eWE06pvzfs", name: "[Daydream Sky Train - IA, Hatsune Miku ft. Orangestar]"	},
+				{youtube: "bM7SZ5SBzyY", name: "[Alan walker]-Fade (No copy right sounds release"},
+					{youtube: "1-xGerv5FOk", name:"[Alan walker]-Alon (No copy right sounds release"},
+						{youtube: "xshEZzpS4CQ",name:"[Alan walker]-Force (no copy right sounds release"}
 ];
 
 /*Random music order?*/
@@ -103,8 +106,12 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Welcome to dev Role Play!",
-"Make friends, follow rules & have fun!",
+"서버에 오신것을 환영합니다."
+"!motd로 서버규칙을 확인해주세요!"
+"서버 로딩중.."
+"데이터 파일 불러오는중..."
+"잠시만 기다려주세요!"
+
 
 ];
 
