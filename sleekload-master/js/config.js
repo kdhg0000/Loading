@@ -100,6 +100,8 @@ var l_musicPlaylist = [
 	                                        {youtube:"6FNHe3kf8_s",name:"Different Heaven - Nekozilla"},
                                                 {youtube:"XogSflwXgpw",name:"【IA】アスノヨゾラ哨戒班【オリジナル】-(내일의 밤하늘 초계반)"},
 	                                                {youtube:"emrt46SRyYs",name:"DAYBREAK FRONTLINE / Orangestar feat.IA"},
+														{youtube:"lYBfWxQRM_A",name:"Keith Kenniff - Goldengrove"},
+															{youtube:"2OdgUuH9bm0",name:"Maggie Lindemann - Pretty Girl"},
 ];
 
 /*Random music order?*/
@@ -118,7 +120,7 @@ var l_messages = [
 "서버를 불러오는중 입니다...",
 "서버의 규칙은 !motd로 보실수 있습니다.",
 "@로 관리자에게 신고를 해주시거나 스팀채팅으로 신고를 해주세요!",
-"로딩화면,로딩화면 음악 등 추천받습니다",
+"서버에 오신것을 환영합니다.",
 ];
 
 /*Random message order?*/
