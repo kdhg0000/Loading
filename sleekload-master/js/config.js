@@ -11,8 +11,7 @@
 Leave it blank to use text instead*/
 var l_serverImage = "https://raw.githubusercontent.com/kdhg0000/Loading/0464cc64/sleekload-master/backgrounds/images/1.jpg",
 	                "https://cdn.rawgit.com/kdhg0000/Loading/0464cc64/sleekload-master/backgrounds/images/2.jpg",
-	                "https://cdn.rawgit.com/kdhg0000/Loading/0464cc64/sleekload-master/backgrounds/images/3.jpg",
-					;
+	                "https://cdn.rawgit.com/kdhg0000/Loading/0464cc64/sleekload-master/backgrounds/images/3.jpg", ;
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
@@ -87,6 +86,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
+  
   {youtube: "kyg1ccTfW5s", name: "[Blend・S]- 8bit."},
 		{youtube: "5eWE06pvzfs", name: "[Daydream Sky Train - IA, Hatsune Miku ft. Orangestar]"	},
 			{youtube: "60ItHLz5WEA", name: "[Alan walker]-Fade (No copy right sounds release)"},
