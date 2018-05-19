@@ -91,14 +91,12 @@ var l_musicPlaylist = [
 				{youtube: "1-xGerv5FOk", name:"[Alan walker]-Alon (No copy right sounds release)"},
 					{youtube: "xshEZzpS4CQ",name:"[Alan walker]-Force (no copy right sounds release)"},
 	                    {youtube: "VKzWLUQizz8&index=116&list=PL59ILWYueEqanRXeYVLuhtGA59sVVSFFJ",name:"Justice - Genesis - †"},
-                       
-	                            
-	                                {youtube:"jvipPYFebWc",name:"Roundtable Rival - Lindsey Stirling"},
-	                                    {youtube:"5O9-WAkSwQk",name:"Nightcore - The Calling"},
-	                                        {youtube:"6FNHe3kf8_s",name:"Different Heaven - Nekozilla"},
-                                                {youtube:"XogSflwXgpw",name:"【IA】アスノヨゾラ哨戒班【オリジナル】-(내일의 밤하늘 초계반)"},
-	                                                {youtube:"emrt46SRyYs",name:"DAYBREAK FRONTLINE / Orangestar feat.IA"},
-														{youtube:"lYBfWxQRM_A",name:"Keith Kenniff - Goldengrove"},
+                            {youtube:"jvipPYFebWc",name:"Roundtable Rival - Lindsey Stirling"},
+	                            {youtube:"5O9-WAkSwQk",name:"Nightcore - The Calling"},
+	                                {youtube:"6FNHe3kf8_s",name:"Different Heaven - Nekozilla"},
+                                        {youtube:"XogSflwXgpw",name:"【IA】アスノヨゾラ哨戒班【オリジナル】-(내일의 밤하늘 초계반)"},
+	                                        {youtube:"emrt46SRyYs",name:"DAYBREAK FRONTLINE / Orangestar feat.IA"},
+											    {youtube:"lYBfWxQRM_A",name:"Keith Kenniff - Goldengrove"},
 														
 
 /*Random music order?*/
