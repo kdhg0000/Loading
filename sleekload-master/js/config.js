@@ -90,11 +90,7 @@ var l_musicPlaylist = [
 		    {youtube: "73SJ2pVqiPc", name: "「未熟DREAMER」"},
 			    {youtube: "Qj0Dmwxv-KY", name: "「恋になりたいAQUARIUM」"},
 				    {youtube: "-KKAxfF1aug", name: "Guilty Kiss「Strawberry Trapper」,「Guilty Night, Guilty Kiss!」"},
-					
-			    
-		
-														
-
+];
 /*Random music order?*/
 var l_musicRandom = true;
 
