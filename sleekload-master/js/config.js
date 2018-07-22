@@ -85,18 +85,14 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-    {youtube: "kyg1ccTfW5s", name: "[Blend・S]- 8bit."},
-		{youtube: "5eWE06pvzfs", name: "[Daydream Sky Train - IA, Hatsune Miku ft. Orangestar]"	},
-			{youtube: "60ItHLz5WEA", name: "[Alan walker]-Fade (No copy right sounds release)"},
-				{youtube: "1-xGerv5FOk", name:"[Alan walker]-Alon (No copy right sounds release)"},
-					{youtube: "xshEZzpS4CQ",name:"[Alan walker]-Force (no copy right sounds release)"},
-	                    {youtube: "VKzWLUQizz8&index=116&list=PL59ILWYueEqanRXeYVLuhtGA59sVVSFFJ",name:"Justice - Genesis - †"},
-                            {youtube:"jvipPYFebWc",name:"Roundtable Rival - Lindsey Stirling"},
-	                            {youtube:"5O9-WAkSwQk",name:"Nightcore - The Calling"},
-	                                {youtube:"6FNHe3kf8_s",name:"Different Heaven - Nekozilla"},
-                                        {youtube:"XogSflwXgpw",name:"【IA】アスノヨゾラ哨戒班【オリジナル】-(내일의 밤하늘 초계반)"},
-	                                        {youtube:"emrt46SRyYs",name:"DAYBREAK FRONTLINE / Orangestar feat.IA"},
-											    {youtube:"lYBfWxQRM_A",name:"Keith Kenniff - Goldengrove"},
+    {youtube: "I3NmHsDXeFc", name: "君のこころは輝いてるかい？"},
+	    {youtube: "eVwdeIDjXeM", name: "「HAPPY PARTY TRAIN」"},
+		    {youtube: "73SJ2pVqiPc", name: "「未熟DREAMER」"},
+			    {youtube: "Qj0Dmwxv-KY", name: "「恋になりたいAQUARIUM」"},
+				    {youtube: "-KKAxfF1aug", name: "Guilty Kiss「Strawberry Trapper」,「Guilty Night, Guilty Kiss!」"},
+					
+			    
+		
 														
 
 /*Random music order?*/
